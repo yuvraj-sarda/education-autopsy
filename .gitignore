@@ -1,13 +1,3 @@
-/.DS_Store
-/.cursorrules
-/CONTRIBUTING.md
-/PLATFORM-STRATEGY.md
-/README.md
-/SETUP-PRIVATE-REPOSITORY.md
-/agi-analysis.md
-/archive
-/infrastructure
-/methodology.md
-/movement-assets
-/research
-/theory-of-change.md
+.local
+.DS_Store
+**/.DS_Store
